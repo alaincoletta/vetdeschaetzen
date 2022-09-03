@@ -1,6 +1,6 @@
 ---
 blocks:
-  - headline: UCB.com
+  - headline: Team Belgium Equine Vet
     text: |
       this description is seen changed in live
     actions:

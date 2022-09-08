@@ -9,7 +9,7 @@ blocks:
     _template: content
   - headline: Welcome to the Tina Starter
     text: >
-      This project is set up blab lblblbblblbl
+      This project is set up this test is good
 
 
       to show you the basics of working with Tina. You're looking at the landing

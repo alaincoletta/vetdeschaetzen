@@ -1,9 +1,9 @@
 {
   "header": {
     "icon": {
-      "color": "blue",
+      "color": "primary",
       "style": "float",
-      "name": "beer"
+      "name": "horse"
     },
     "color": "default",
     "nav": [

@@ -372,6 +372,10 @@
                       "value": "coffee"
                     },
                     {
+                      "label": "Horse",
+                      "value": "horse"
+                    },
+                    {
                       "label": "World",
                       "value": "world"
                     },
@@ -1127,6 +1131,10 @@
                             {
                               "label": "Coffee",
                               "value": "coffee"
+                            },
+                            {
+                              "label": "Horse",
+                              "value": "horse"
                             },
                             {
                               "label": "World",

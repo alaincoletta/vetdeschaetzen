@@ -1,8 +1,21 @@
 ---
 blocks:
-  - headline: Team Belgium Equine Vet
-    text: |
-      this description is seen changed in live
+  - body: >
+      ![](https://res.cloudinary.com/dokuarhtk/image/upload/v1649598244/vetdeschaetzen/77b33754-2f8a-4a20-9145-b45b6690c8bc\_sybu1c.jpg
+      "")
+
+
+      ![](<> "")
+    _template: content
+  - headline: Welcome to the Tina Starter
+    text: >
+      This project is set up blab lblblbblblbl
+
+
+      to show you the basics of working with Tina. You're looking at the landing
+      page, which pulls content from content/pages/home.md, components from
+      components/blocks, and puts them all together in pages/\[filename].tsx,
+      all based on a schema defined in .tina/schema.ts.
     actions:
       - label: Get Started
         type: button
@@ -16,7 +29,7 @@ blocks:
       src: >-
         https://res.cloudinary.com/forestry-demo/image/upload/v1628102029/tina-cloud-starter/tina-illustration.WebP
       alt: Tina
-    color: default
+    color: tint
     _template: hero
   - items:
       - icon:

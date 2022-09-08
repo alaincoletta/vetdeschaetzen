@@ -20,6 +20,7 @@ import {
   BiWorld,
 } from "react-icons/bi";
 import { ImTrophy } from "react-icons/im";
+import { GiHorseHead } from "react-icons/gi";
 import {
   HiAdjustments,
   HiBeaker,
@@ -62,12 +63,14 @@ const biIconOptions = {
   coffee: BiCoffeeTogo,
   world: BiWorld,
   aperture: FiAperture,
+  horse: GiHorseHead,
   tina: TinaIconSvg,
 };
 
 const heroIconOptions = {
   code: HiTerminal,
   like: HiThumbUp,
+  horse: GiHorseHead,
   map: HiMap,
   palette: HiColorSwatch,
   chart: HiChartBar,
@@ -334,6 +337,10 @@ export const iconSchema: TinaField = {
         {
           label: "Coffee",
           value: "coffee",
+        },
+        {
+          label: "Horse",
+          value: "horse",
         },
         {
           label: "World",

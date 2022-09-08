@@ -7,7 +7,7 @@ blocks:
 
       ![](<> "")
     _template: content
-  - headline: Welcome to the Tina Starter
+  - headline: Welcome to the Tina Starter Rob
     text: >
       This project is set up this test is good
 
